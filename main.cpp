@@ -1,5 +1,5 @@
 
-//git test
+//git test 中文
 #include <QApplication>
 #include "markWidget2.h"
 #include "stdio.h"
